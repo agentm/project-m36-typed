@@ -18,3 +18,6 @@ var/*
 *.stack-work
 *.sublime-project
 *.sublime-workspace
+dist
+dist-newstyle
+.cabal-sandbox

@@ -25,8 +25,8 @@ library
     ProjectM36.Typed.Types
   build-depends:
     rio,
-    base,
-    project-m36,
+    base >= 4.10,
+    project-m36 >= 0.5,
     generics-sop,
     basic-sop,
     QuickCheck,
